@@ -7,6 +7,7 @@
 | Error Budget |   20% tolerant   | Error budget is defined at 20%. This means that 20% of the requests can fail and still be within the budget |
 | Throughput   |   Traffic the site can handle    |5 RPS indicates the application is functioning                    |
 
+Screenshots: Use tool
 
 # Availability
 sum (rate(apiserver_request_total{job="apiserver",code!~"5.."}[2d]))
