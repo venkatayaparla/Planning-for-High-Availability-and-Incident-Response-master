@@ -67,4 +67,3 @@ In regards to their SQL cluster, the following requirements should be met:
 - Set the backup retention window to 5 days
 - Each cluster must have multiple availability zones
 - zone1 will replicate to a cluster in zone2
-
