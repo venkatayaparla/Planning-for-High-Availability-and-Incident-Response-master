@@ -15,6 +15,15 @@ us-east-2:
 
 ### Descriptions
 More detailed descriptions of each asset identified above.
+3 EC2 instances running the website
+SSH keys for administering the EC2 instances
+GitHub repo for storing the Terraform code
+Backend database running on 3 Amazon RDS nodes for the website
+Database backups stored in S3 for recovery
+Redis backend for caching
+Load balancer for the website
+Kubernetes cluster for monitoring stack
+Monitoring platform (Grafana and Prometheus) for the web application
 
 ## DR Plan
 ### Pre-Steps:
