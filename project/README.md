@@ -110,7 +110,7 @@ Clone the appropriate git repo with the starter code. There will be 2 folders. Z
      - `kubectl config set-context --current --namespace=udacity` -->
 
 <!-- 5. Once the script finishes **Configure nginx** 
-`sudo nano /etc/nginx/sites-enabled/default`
+`sudo vim /etc/nginx/sites-enabled/default`
 
 ```
 server {
