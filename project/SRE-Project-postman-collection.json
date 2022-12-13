@@ -84,7 +84,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\t\"username\": \"{{username}}\",\r\n\t\"email\": \"{{email}}\"\r\n}",
+					"raw": "{\r\n\t\"username\": \"venkata\",\r\n\t\"email\": \"venkata.yaparla@gmail.com\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -102,7 +102,7 @@
 						"register"
 					]
 				},
-				"description": "Register an inital user:\r\n\r\n```\r\n{\r\n\t\"username\": \"<username>\",\r\n\t\"email\": \"<email>\"\r\n}\r\n```"
+				"description": "Register an inital user:\r\n\r\n```\r\n{\r\n\t\"username\": \"venkata\",\r\n\t\"email\": \"venkata.yaparla@gmail.com\"\r\n}\r\n```"
 			},
 			"response": []
 		},
